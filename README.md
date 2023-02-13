@@ -1,1 +1,1 @@
-# responsive_university_webpage
+# responsive_university_multipage-website through HTML, CSS & JAVASCRIPT
